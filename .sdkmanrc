@@ -1,0 +1,5 @@
+# Java version for Spring Boot 4.0.0 (requires Java 17)
+java=17.0.9-tem
+
+# Maven version compatible with the project
+maven=3.9.11
